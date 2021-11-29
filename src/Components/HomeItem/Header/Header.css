@@ -1,0 +1,59 @@
+
+.header{
+    align-items: center;
+    font-family: 'Libre Baskerville', serif;
+}
+.header-text{
+    text-align: justify;
+    color: white;
+}
+
+.header-img{
+    background-color: black;
+clip-path: circle(30%);
+}
+.button{
+    padding-top: 5px;
+   align-items: center;
+}
+.btn {
+  background-color: rgb(29, 165, 29);
+  border: none;
+  border-radius: 25px;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btn2 {
+  background-color: tomato;
+  border: none;
+   border-radius: 25px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.btn:hover{
+background-color: white;
+color: rgb(29, 165, 29);
+}
+.btn2:hover{
+background-color: white;
+color:tomato;
+}
+.btn a{ 
+  text-decoration: none;
+}
+
+.btn2 a{ 
+  text-decoration: none;
+}

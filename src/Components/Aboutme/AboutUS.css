@@ -1,0 +1,16 @@
+.about{
+    align-items: center;
+}
+.about h4 span{
+    color:rgb(42, 133, 42);
+}
+.about h2{
+    font-family: 'Libre Baskerville', serif;
+}
+.about h2 span{
+    color:mediumseagreen;
+}
+.about-text{
+    font-family: 'Libre Baskerville', serif;
+    text-align: justify;
+}
