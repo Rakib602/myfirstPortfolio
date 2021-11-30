@@ -42,18 +42,14 @@ clip-path: circle(30%);
   margin: 4px 2px;
   cursor: pointer;
 }
-.btn:hover{
-background-color: white;
-color: rgb(29, 165, 29);
-}
-.btn2:hover{
-background-color: white;
-color:tomato;
-}
 .btn a{ 
   text-decoration: none;
+  color:white;
 }
 
 .btn2 a{ 
   text-decoration: none;
-}
+  color:white;
+} 
+
+

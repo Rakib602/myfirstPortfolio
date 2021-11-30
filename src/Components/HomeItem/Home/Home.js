@@ -6,14 +6,14 @@ import Banner from '../Banner/Banner';
 import Services from '../../Servics/Services';
 import Projests from '../../Projects/Projests';
 import Footer from '../../Footer';
-import Contact from '../Contact';
 import ScrollAnimation from 'react-animate-on-scroll';
+import Contactme from '../../ContactME/Contactme';
 
 
 const Home = () => {
     return (
         <div >
-            <div className="home" id="home">
+            <div id="home">
                 <Banner></Banner>
             <ScrollAnimation animateIn='fadeIn'
         animateOut='fadeOut'>
@@ -25,7 +25,7 @@ const Home = () => {
                 </ScrollAnimation>
                 
                 <Projests></Projests>
-                <Contact></Contact>
+                <Contactme></Contactme>
                 <Footer></Footer>
             </div>
             

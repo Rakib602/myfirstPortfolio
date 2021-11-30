@@ -17,7 +17,7 @@ const Header = () => {
                 </Col>
                 <div className="button">
                     <button className='btn'><a href="https://www.linkedin.com/in/rakib-hossan-redoy-732a6a226/" target="_blank">Hire ME</a></button>
-                    <button className="btn2"><a href="https://drive.google.com/file/d/1Y6yA7emfKnNKR8XRn0PjDHzLTThmc9Yi/view?usp=sharing" target="_blank">Download My Resume</a></button>
+                    <button className="btn2"><a href="https://drive.google.com/file/d/1Y6yA7emfKnNKR8XRn0PjDHzLTThmc9Yi/view?usp=sharing" target="_blank">My Resume</a></button>
                 </div>
             </Row>
            

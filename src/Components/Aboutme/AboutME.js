@@ -4,7 +4,7 @@ import Typical from 'react-typical';
 import '../Aboutme/AboutUS.css'
 const AboutME = () => {
     return (
-        <div className="container">
+        <div className="container"id="about">
             <Row className='about'>
                 <h2 className="p-4"><span>About</span> Me</h2>
                 <Col xs={12} lg={6}>

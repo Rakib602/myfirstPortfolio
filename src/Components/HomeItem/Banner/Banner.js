@@ -4,7 +4,7 @@ import Header from '../Header/Header';
 import NavMenu from '../NavMenu/NavMenu';
 const Banner = () => {
     return (
-        <div className="home">
+        <div className="home pb-3">
             <NavMenu></NavMenu>
             <Header></Header>
         </div>
